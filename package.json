@@ -1,0 +1,19 @@
+{
+  "name": "tm-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programming-Class-01/TM-Backend.git"
+  },
+  "author": "Tyler \"Ornithopter\" Moore",
+  "license": "LGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Programming-Class-01/TM-Backend/issues"
+  },
+  "homepage": "https://github.com/Programming-Class-01/TM-Backend#readme"
+}
