@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
+  "type": "module",
   "scripts": {
+    "start": "npx tsc && node ./build/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Programming-Class-01/TM-Backend/issues"
   },
-  "homepage": "https://github.com/Programming-Class-01/TM-Backend#readme"
+  "homepage": "https://github.com/Programming-Class-01/TM-Backend#readme",
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "typescript": "^5.1.6"
+  }
 }
